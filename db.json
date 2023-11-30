@@ -1,0 +1,21 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Brush up React Router v2",
+      "day": "30th November 2023 23:00Hrs"
+    },
+    {
+      "id": 2,
+      "text": "Learn and implement Redux",
+      "day": "29th November 2023 10:00Hrs",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Implement Task Management App using React with Redux",
+      "day": "29th November 2023 14:00Hrs",
+      "reminder": true
+    }
+  ]
+}
